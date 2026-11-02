@@ -44,8 +44,9 @@ Python · pandas · NumPy · Matplotlib · seaborn · scikit-learn · Jupyter
 - Add location features (`zipcode`) and try tree-based models
 
 ## Files
-- `House_Sales_in_King_County_USA.ipynb` – full notebook with code, charts and results
-
+- `House_Sales_in_King_County_USA.ipynb` – full notebook with code and explanations
+- `House_Sales_results.pdf` – notebook export with all outputs (charts and R² scores)
+  
 ## Author
 **Emmanuel Ogochukwu Okatta** – Junior Data Analyst (career changer), Essen, Germany
 [GitHub](https://github.com/emmanuel-ogochukwu-okatta)
